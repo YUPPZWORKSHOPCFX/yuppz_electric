@@ -4,6 +4,7 @@
 ## Requirements
 - [Check]()
 - [xzero_skillcheck]()
+- [electric_pole]() prop
 
 
 ## Installation
@@ -13,6 +14,7 @@
 ensure yuppz_electric
 ensure Check
 ensure xzero_skillcheck
+ensure electric_pole
 ```
 
 # Legal
