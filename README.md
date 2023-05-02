@@ -10,8 +10,9 @@
 - Add this in your `server.cfg`:
 
 ```
-ensure yuppz_drugsale
-ensure yuppz_minigamecard
+ensure yuppz_electric
+ensure Check
+ensure xzero_skillcheck
 ```
 
 # Legal
