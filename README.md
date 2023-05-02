@@ -4,7 +4,7 @@
 ## Requirements
 - [Check]()
 - [xzero_skillcheck]()
-- [electric_pole]() prop
+- [electric_pole](https://github.com/YUPPZWORKSHOPCFX/electric_pole) props
 
 
 ## Installation
