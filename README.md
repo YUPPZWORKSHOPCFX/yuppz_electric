@@ -2,7 +2,7 @@
 
 ## Download & Installation
 ## Requirements
-- [Check]()
+- [yuppz_check](https://github.com/YUPPZWORKSHOPCFX/yuppz_check)
 - [xzero_skillcheck]()
 - [electric_pole](https://github.com/YUPPZWORKSHOPCFX/electric_pole) props
 
@@ -12,7 +12,7 @@
 
 ```
 ensure yuppz_electric
-ensure Check
+ensure yuppz_check
 ensure xzero_skillcheck
 ensure electric_pole
 ```
